@@ -1,6 +1,6 @@
 name: JoanWiden
 favicon: null
-layout_spectrum: 0.49806
+layout_spectrum: 0.73908
 typography_spectrum: 0.49612
 title: Joan Widen
 cta:
@@ -22,7 +22,7 @@ color:
     - '#544192'
     - '#858ec5'
     - '#cecfd8'
-  brandStrength: 0
+  brandStrength: 0.5
   lightness: 1
   saturation: 0
   rhythmicContrast: 1
