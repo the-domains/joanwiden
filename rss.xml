@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Joan Widen]]></title>
         <description><![CDATA[Joan Widen]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/joanwiden/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Dec 2015 07:49:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 20 Dec 2015 07:58:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/joanwiden/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What?]]></title>
+            <description><![CDATA[<article><h1>What?</h1><p>What do you want to do?</p></article>]]></description>
+            <link>https://thegrid.ai/joanwiden/what/index.html</link>
+            <guid isPermaLink="false">72f69c75-8305-408a-b33b-7762450485f3</guid>
+            <pubDate>Sun, 20 Dec 2015 07:58:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[this is a test]]></title>
-            <description><![CDATA[<article><h1>this is a test</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b20edf40-ae0d-4c51-a8d7-71b767230599.JPG"></article>]]></description>
-            <link>undefinedthis-is-a-test/index.html</link>
+            <description><![CDATA[<article><h1>this is a test</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/273449bfedbf5241ad1a216e5b65b4a74296764c.jpg"></article>]]></description>
+            <link>https://thegrid.ai/joanwiden/this-is-a-test/index.html</link>
             <guid isPermaLink="false">dea7a3d4-c0f8-42c2-968e-d64cfcf324e4</guid>
             <pubDate>Sun, 20 Dec 2015 07:49:40 GMT</pubDate>
         </item>
