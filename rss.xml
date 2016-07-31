@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Joan Widen]]></title>
-        <description><![CDATA[Joan Widen]]></description>
+        <title><![CDATA[Joan Widen's Website]]></title>
+        <description><![CDATA[Joan Widen's Website]]></description>
         <link>https://thegrid.ai/joanwiden/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Dec 2015 07:58:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jul 2016 06:47:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/joanwiden/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/394f7172-c238-4636-b75e-557e8f9e5ca9.jpg">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/394f7172-c238-4636-b75e-557e8f9e5ca9.jpg</link>
+            <guid isPermaLink="false">c9bd64a5-e88c-4c0b-9282-6f22185b1da3</guid>
+            <pubDate>Sun, 31 Jul 2016 06:47:16 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[What?]]></title>
-            <description><![CDATA[<article><h1>What?</h1><p>What do you want to do?</p></article>]]></description>
+            <description><![CDATA[<p>What do you want to do?</p>]]></description>
             <link>https://thegrid.ai/joanwiden/what/index.html</link>
             <guid isPermaLink="false">72f69c75-8305-408a-b33b-7762450485f3</guid>
             <pubDate>Sun, 20 Dec 2015 07:58:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[this is a test]]></title>
-            <description><![CDATA[<article><h1>this is a test</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/273449bfedbf5241ad1a216e5b65b4a74296764c.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>this is a test</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8e773d61f18c2c7a9fbf7830bedec5c64df7f252.jpg"></article>]]></description>
             <link>https://thegrid.ai/joanwiden/this-is-a-test/index.html</link>
             <guid isPermaLink="false">dea7a3d4-c0f8-42c2-968e-d64cfcf324e4</guid>
             <pubDate>Sun, 20 Dec 2015 07:49:40 GMT</pubDate>
